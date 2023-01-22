@@ -157,3 +157,18 @@
 【补充】：篡改文字，避免 PS 图片
 【补充】：查看密码框不显示的密码
 【补充】：限制网速
+【图片、网址】一键生成二维码，与手机同步
+【高亮分享】分享选中的文字 发出链接
+【右键图片选择面积搜索】Google lens
+【右键】阅读文字——但不推荐
+【打印插件】print frendly & pdf
+【提升下载速度】 Parallel downloading
+【补充】浏览器分词：console.table(Array.from(new Intl.Segmenter('cn', { granularity: 'word' }).segment('https://www.v2ex.com/t/854748')))
+
+
+
+
+## 问题调研：
+下载图片
+新窗口打开
+快速翻页
