@@ -165,7 +165,9 @@
 【提升下载速度】 Parallel downloading
 【补充】浏览器分词：console.table(Array.from(new Intl.Segmenter('cn', { granularity: 'word' }).segment('https://www.v2ex.com/t/854748')))
 
+【插件推荐】https://www.youtube.com/watch?v=KU5hic-wlK4
 
+禁止复制：http://www.doczj.com/doc/1e12523005.html
 
 
 ## 问题调研：
