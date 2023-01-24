@@ -61,7 +61,7 @@
 	
 
 
-	
+
 - 功能扩展篇：你不知道的黑科技
 	- PDF： PDF 介绍、打印，技巧：删除无关的遮盖，还可以缩放。【设置打印css 样式 media】，window.print()，编程修改打印内容
 	- 控制台
@@ -153,7 +153,7 @@
 - 收藏插件：某个网站都收藏，结果网站关闭 或 自己的木马忘了，或回想不起来
 - 展望未来：contenner
 
-
+【补充】二维码
 【补充】：篡改文字，避免 PS 图片
 【补充】：查看密码框不显示的密码
 【补充】：限制网速
@@ -164,6 +164,27 @@
 【打印插件】print frendly & pdf
 【提升下载速度】 Parallel downloading
 【补充】浏览器分词：console.table(Array.from(new Intl.Segmenter('cn', { granularity: 'word' }).segment('https://www.v2ex.com/t/854748')))
+【补充】安全防范，防范查看密码，防范storeyg缓存
+【补充】防范，锁屏。
+【补充】防范，只删文档，而不删文档历史。
+【补充】防范，图片泄露位置，图片暴露位置。
+【补充】广告，推荐，监听语音？不会的
+【假的】马赛克破解：https://www.leikeji.com/article/35550
+【补充】假的域名，特殊字符：https://zhuanlan.zhihu.com/p/42103422
+
+【补充】安全：浏览器：媒体参与指数 (Media Engagement Index) chrome://media-engagement   https://www.luckydesigner.space/get-self-info-from-chrome/
+
+学会使用无痕浏览
+ 
+主流浏览器比如Chrome、Safari都有无痕浏览功能。在这种浏览模式下，浏览器采用的是一种阅后即焚的方式。它不会主动使用网络钥匙串，也不会提醒用户保存登录密码，是一种相对安全的网络浏览方式。
+ 
+4、关掉定位功能
+ 
+下载一款新软件时，总是会提问你“要不要打开定位服务”，这时候就要三思了。如果你授权手机获取你的位置，那就意味着你那儿每天都有类似的生活轨迹，会把你的住处、上班地点全部透露给收集信息的“有心人”。
+
+不是把鸡蛋放在不同的篮子里，而是根本不要放在篮子里。
+
+【补充】短连接，在线画图、抠图：https://juejin.cn/post/6844904175042560008
 
 【插件推荐】https://www.youtube.com/watch?v=KU5hic-wlK4
 
